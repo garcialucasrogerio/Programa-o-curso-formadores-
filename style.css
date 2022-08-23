@@ -1,0 +1,19 @@
+#imagem-codigo{
+	height: 400px;
+	width: 100%;
+}
+p{
+	text-align: justify;
+}
+body{
+	background-color: red;
+}
+.cabecalho{
+	background-color: pink ;
+}
+.itens{
+	font-weight: bold;
+}
+.apresentacao{
+	border: dashed;
+}
